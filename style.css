@@ -35,7 +35,7 @@ section {
 aside {
     border: 2px solid #999;
     margin-bottom: 10px;
-    width: 152px;
+    width: 142px;
     float: right;
     
 }
@@ -43,4 +43,10 @@ aside {
 footer {
     border: 2px solid #999;
     margin-bottom: 10px;
+
+}
+
+.clear {
+clear: both;
+
 }
